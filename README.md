@@ -1,6 +1,5 @@
 # Product Landing Page
-### Technologies: HTML, CSS
-#### Created: Mar 9, 2020 | Status: Complete
+### Technologies: HTML, CSS || Created: Mar 9, 2020 || Status: Complete
 
 **Description:** A landing page for a fictional company, Butterscotch Haven.
 
